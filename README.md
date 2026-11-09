@@ -1,4 +1,4 @@
-# Playwright + GitHub Actions + SonarCloud
+# Playwright + GitHub Actions + SonarCloud 
 
 Testes de tela (E2E) com [Playwright](https://playwright.dev) no site https://www.betha.com.br.
 
