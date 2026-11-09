@@ -18,9 +18,7 @@ export default defineConfig({
     ['junit', { outputFile: 'test-results/junit.xml' }],
   ],
   use: {
-    baseURL: 'https://www.saucedemo.com',
-    // O site usa o atributo data-test em vez de data-testid
-    testIdAttribute: 'data-test',
+    baseURL: 'https://www.betha.com.br',
     trace: 'on-first-retry',
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',

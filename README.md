@@ -1,11 +1,11 @@
 # Playwright + GitHub Actions + SonarCloud
 
-Testes de tela (E2E) com [Playwright](https://playwright.dev) no site de testes https://www.saucedemo.com.
+Testes de tela (E2E) com [Playwright](https://playwright.dev) no site https://www.betha.com.br.
 
 ## Casos de teste
-- **CT01** – Login válido leva para a tela de produtos
-- **CT02** – Login com senha inválida mostra mensagem de erro
-- **CT03** – Adicionar produto ao carrinho atualiza contador e carrinho
+- **CT01** – Página inicial carrega com título, logo, título principal e menu
+- **CT02** – Menu "Soluções" abre a página de soluções
+- **CT03** – Busca por "Saúde" exibe a página de resultados
 
 ## Rodar localmente
 ```bash
